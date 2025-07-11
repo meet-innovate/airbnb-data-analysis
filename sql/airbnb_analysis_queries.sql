@@ -39,3 +39,5 @@ WHERE price > 0;
 SELECT COUNT(*) AS missing_license_count
 FROM airbnb_listings
 WHERE license IS NULL OR license = '';
+
+--
