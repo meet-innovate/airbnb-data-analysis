@@ -21,7 +21,31 @@ This is a snapshot of the Excel dashboard created using charts and pivot tables:
 
 ![Airbnb Dashboard](./charts/Airbnb_Excel_Dashboard.png)
 
+## 🧠 Key SQL Insights
 
-## 📁 Project Structure
+### 1. Top 10 Neighbourhoods by Number of Listings
+
+This query shows which neighbourhoods have the highest number of listings on Airbnb.
+
+![Top Neighbourhoods](./charts/top_neighbourhoods_sql.png)
+
+---
+
+### 2. Average Price by Room Type
+
+Shows how pricing varies between private rooms, shared rooms, and entire apartments.
+
+![Avg Price by Room Type](./charts/avg_price_by_room_type.png)
+
+---
+
+### 3. Listings with the Most Reviews
+
+Highlights the most popular listings based on review count.
+
+![Most Reviewed Listings](./charts/most_reviewed_listings.png)
+
+---
+> 💡 View all queries here → [airbnb_analysis_queries.sql](./sql/airbnb_analysis_queries.sql)
 
 
