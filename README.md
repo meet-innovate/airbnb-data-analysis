@@ -8,13 +8,28 @@ This project uses Microsoft Excel to explore and analyze Airbnb listings data. I
 - 🛏 Room Type Distribution – Which room types are most popular?
 - 📅 Average Availability – How often are listings available in a year?
 
-## 🛠 Tools Used
+---
 
-- Microsoft Excel
-- Pivot Tables
-- Bar & Pie Charts
-- Data Cleaning (basic)
+### 🛠️ Tools Used
 
+- **Microsoft Excel**
+  - Pivot Tables for summarizing data
+  - Bar & Pie Charts for initial insights
+  - Basic data cleaning and formatting
+
+- **PostgreSQL**
+  - SQL queries for in-depth data analysis
+  - Joins, aggregations, filtering, and sorting
+
+- **Tableau**
+  - Interactive dashboards and visual storytelling
+  - Pie chart, stacked bar, and horizontal bar chart
+
+- **Git & GitHub**
+  - Version control and project tracking
+  - Organized folder structure with commit history
+
+---
 ## Dashboard Preview
 
 This is a snapshot of the Excel dashboard created using charts and pivot tables:
