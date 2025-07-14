@@ -48,4 +48,32 @@ Highlights the most popular listings based on review count.
 ---
 > 💡 View all queries here → [airbnb_analysis_queries.sql](./sql/airbnb_analysis_queries.sql)
 
+---
+### 📊 Data Visualizations (Tableau)
+
+The following charts were created using Tableau to provide deeper insights from the Airbnb listings dataset:
+
+---
+
+#### 1. Top 10 Neighbourhoods by Number of Listings
+
+This stacked bar chart displays the 10 neighbourhoods in Toronto with the highest number of listings. Each bar is further divided by room type, showing how different types of accommodations (entire homes, private rooms, etc.) are distributed across locations.
+
+![Top Neighbourhoods](charts/top_neighbourhoods_tableau.png)
+
+---
+
+#### 2. Top 10 Most Reviewed Airbnb Listings
+
+This horizontal bar chart highlights the 10 listings with the highest number of reviews — a strong indicator of guest engagement and popularity on the platform.
+
+![Most Reviewed Listings](charts/most_reviewed_listings_tableau.png)
+
+---
+
+#### 3. Room Type Share on Airbnb
+
+This pie chart shows the share of different room types across all listings. Entire homes/apartments make up the majority, followed by private rooms, with hotel and shared rooms being much less common.
+
+![Room Type Distribution](charts/room_type_distribution_tableau.png)
 
