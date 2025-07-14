@@ -77,3 +77,13 @@ This pie chart shows the share of different room types across all listings. Enti
 
 ![Room Type Distribution](charts/room_type_distribution_tableau.png)
 
+---
+
+### 🔍 Key Insights
+
+- 🏙️ **Downtown Toronto** and surrounding neighborhoods (like Kensington-Chinatown and Annex) have the **highest concentration of listings**.
+- 🏡 The **majority of listings** are for **entire homes/apartments**, not shared spaces.
+- 💬 The **most-reviewed listings** are generally **affordable** and located in **central areas**, suggesting high demand and guest satisfaction.
+- 🛏️ **Private rooms** still play a significant role, especially in budget-friendly neighborhoods.
+- 📈 Listings with over **200+ reviews** tend to have consistent availability and active host engagement.
+
