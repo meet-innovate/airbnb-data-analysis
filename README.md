@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="charts/airbnb_dashboard_thumbnail.png" alt="Airbnb Toronto Tableau Dashboard Thumbnail" width="800"/>
+</p>
+
 # 🏠 Airbnb Data Analysis – Excel Project
 
 This project uses Microsoft Excel to explore and analyze Airbnb listings data. It focuses on uncovering insights about neighborhood activity, room types, and availability to better understand the short-term rental market.
@@ -102,3 +106,11 @@ This pie chart shows the share of different room types across all listings. Enti
 - 🛏️ **Private rooms** still play a significant role, especially in budget-friendly neighborhoods.
 - 📈 Listings with over **200+ reviews** tend to have consistent availability and active host engagement.
 
+---
+
+### Lessons Learned
+
+- Practiced real-world data cleaning and transformation using Excel
+- Gained hands-on experience with PostgreSQL for querying relational data
+- Improved my data storytelling skills using Tableau visualizations
+- Learned how to organize and document a project professionally on GitHub
